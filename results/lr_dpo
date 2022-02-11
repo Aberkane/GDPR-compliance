@@ -1,0 +1,64 @@
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:                    DPO   No. Observations:                 8614
+Model:                          Logit   Df Residuals:                     8574
+Method:                           MLE   Df Model:                           39
+Date:                Fri, 11 Feb 2022   Pseudo R-squ.:                 0.01228
+Time:                        13:51:26   Log-Likelihood:                -5067.3
+converged:                       True   LL-Null:                       -5130.3
+Covariance Type:            nonrobust   LLR p-value:                 4.220e-11
+==============================================================================================================================================
+                                                                                 coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------------------------------------------------
+const                                                                          0.7438      0.103      7.210      0.000       0.542       0.946
+Years since today                                                              0.0183      0.025      0.733      0.464      -0.031       0.067
+Operating revenue EU (Turnover LAY)                                           -0.0301      0.030     -0.990      0.322      -0.090       0.029
+Number of employees (LAY)                                                     -0.0585      0.038     -1.544      0.123      -0.133       0.016
+Quoted_1                                                                       0.7130      0.175      4.063      0.000       0.369       1.057
+Country ISO code_BE                                                            0.2075      0.155      1.334      0.182      -0.097       0.512
+Country ISO code_BG                                                            0.0177      0.232      0.077      0.939      -0.436       0.472
+Country ISO code_CY                                                            0.2038      0.430      0.474      0.636      -0.639       1.047
+Country ISO code_CZ                                                            0.1572      0.211      0.746      0.456      -0.256       0.570
+Country ISO code_DE                                                            0.2023      0.118      1.716      0.086      -0.029       0.433
+Country ISO code_DK                                                            0.8272      0.240      3.442      0.001       0.356       1.298
+Country ISO code_EE                                                                 0        nan        nan        nan         nan         nan
+Country ISO code_ES                                                           -0.0515      0.125     -0.412      0.680      -0.296       0.193
+Country ISO code_FI                                                           -0.1641      0.165     -0.997      0.319      -0.487       0.158
+Country ISO code_FR                                                            0.1028      0.120      0.858      0.391      -0.132       0.338
+Country ISO code_GR                                                                 0        nan        nan        nan         nan         nan
+Country ISO code_HR                                                           -0.6186      0.225     -2.745      0.006      -1.060      -0.177
+Country ISO code_HU                                                           -0.2828      0.243     -1.163      0.245      -0.759       0.194
+Country ISO code_IE                                                            0.4774      0.181      2.634      0.008       0.122       0.833
+Country ISO code_IT                                                            0.0202      0.113      0.179      0.858      -0.201       0.242
+Country ISO code_LT                                                                 0        nan        nan        nan         nan         nan
+Country ISO code_LU                                                            0.1505      0.210      0.717      0.473      -0.261       0.562
+Country ISO code_LV                                                           -0.2931      0.332     -0.882      0.378      -0.944       0.358
+Country ISO code_MT                                                            0.1919      0.346      0.555      0.579      -0.486       0.870
+Country ISO code_NL                                                            0.0293      0.155      0.190      0.850      -0.274       0.332
+Country ISO code_PL                                                           -0.2903      0.148     -1.961      0.050      -0.581      -0.000
+Country ISO code_PT                                                           -0.1435      0.189     -0.758      0.449      -0.515       0.228
+Country ISO code_RO                                                           -0.0328      0.204     -0.161      0.872      -0.433       0.367
+Country ISO code_SE                                                            0.2132      0.139      1.531      0.126      -0.060       0.486
+Country ISO code_SI                                                           -0.5817      0.301     -1.930      0.054      -1.172       0.009
+Country ISO code_SK                                                            0.0368      0.260      0.142      0.887      -0.473       0.546
+NACE2_ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES                            0.2476      0.125      1.974      0.048       0.002       0.494
+NACE2_AGRICULTURE, FORESTRY AND FISHING                                             0        nan        nan        nan         nan         nan
+NACE2_ARTS, ENTERTAINMENT AND RECREATION                                      -0.2801      0.315     -0.889      0.374      -0.897       0.337
+NACE2_CONSTRUCTION                                                                  0        nan        nan        nan         nan         nan
+NACE2_EDUCATION                                                                0.6342      0.388      1.636      0.102      -0.126       1.394
+NACE2_ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY                      0.0212      0.311      0.068      0.946      -0.589       0.631
+NACE2_FINANCIAL AND INSURANCE ACTIVITIES                                       0.1660      0.096      1.733      0.083      -0.022       0.354
+NACE2_HUMAN HEALTH AND SOCIAL WORK ACTIVITIES                                       0        nan        nan        nan         nan         nan
+NACE2_INFORMATION AND COMMUNICATION                                                 0        nan        nan        nan         nan         nan
+NACE2_MANUFACTURING                                                            0.0461      0.064      0.720      0.471      -0.079       0.171
+NACE2_MINING AND QUARRYING                                                    -0.1188      0.407     -0.292      0.771      -0.917       0.680
+NACE2_No Information                                                           0.1265      0.289      0.439      0.661      -0.439       0.692
+NACE2_OTHER SERVICE ACTIVITIES                                                 0.0984      0.303      0.325      0.745      -0.495       0.692
+NACE2_PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES                             0        nan        nan        nan         nan         nan
+NACE2_PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY           -0.4654      0.625     -0.744      0.457      -1.691       0.760
+NACE2_REAL ESTATE ACTIVITIES                                                   0.2502      0.172      1.456      0.145      -0.087       0.587
+NACE2_TRANSPORTATION AND STORAGE                                                    0        nan        nan        nan         nan         nan
+NACE2_WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES           0        nan        nan        nan         nan         nan
+NACE2_WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES     0.1564      0.067      2.320      0.020       0.024       0.289
+Size classification_0                                                               0        nan        nan        nan         nan         nan
+==============================================================================================================================================
