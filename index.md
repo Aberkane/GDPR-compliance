@@ -17,11 +17,11 @@ Currently under review at TrustBus2022.
 
 ## Results
 Full print of the results of statistical analysis using Statsmodel's logistic regression as outlined in the paper mentioned above:\
-**Data Protection Officer**: [full output](results/lr-rights)\
-**Purpose**: [full output](https://github.com/Aberkane/)\
-**Acquired Data**: [full output](https://github.com/Aberkane/)\
-**Data sharing**: [full output](https://github.com/Aberkane/)\
-**Rights**: [full output](https://github.com/Aberkane/)
+**Data Protection Officer**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr-dpo)\
+**Purpose**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr-purpose)\
+**Acquired Data**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr-acquired_data)\
+**Data sharing**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr-data_sharing)\
+**Rights**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr-rights)
 
 ## Support or Contact
 
