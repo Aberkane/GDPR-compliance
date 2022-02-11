@@ -25,7 +25,7 @@ Full print of the results of statistical analysis using Statsmodel's logistic re
 
 ## Support or Contact
 
-Questions? Please send us an email at [abdeljaouad.aberkane@ugent.be](abdeljaouad.aberkane@ugent.be)
+Questions? Please send us an email at [abdeljaouad.aberkane@ugent.be](abdeljaouad.aberkane@ugent.be).
 
 <!-- ## Welcome to GitHub Pages
 
