@@ -1,3 +1,8 @@
+Optimization terminated successfully    (Exit mode 0)
+            Current function value: 0.5891653206437626
+            Iterations: 264
+            Function evaluations: 264
+            Gradient evaluations: 264
                            Logit Regression Results                           
 ==============================================================================
 Dep. Variable:                    DPO   No. Observations:                 8614
