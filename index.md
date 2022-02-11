@@ -17,10 +17,10 @@ Currently under review at TrustBus2022.
 
 ## Results
 Full print of the results of statistical analysis using Statsmodel's logistic regression as outlined in the paper mentioned above:\
-- **Data Protection Officer**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr_dpo)\
-- **Purpose**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr_purpose)\
-- **Acquired Data**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr_acquired-data)\
-- **Data sharing**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr_data-sharing)\
+- **Data Protection Officer**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr_dpo)
+- **Purpose**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr_purpose)
+- **Acquired Data**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr_acquired-data)
+- **Data sharing**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr_data-sharing)
 - **Rights**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr_rights)
 
 ## Support or Contact
