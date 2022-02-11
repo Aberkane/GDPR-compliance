@@ -17,7 +17,7 @@ Currently in review ...
 
 ## Results
 Full print of the results of statistical analysis using Statsmodel's logistic regression as outlined in the paper mentioned above:\
-**Data Protection Officer**: [full output](https://github.com/Aberkane/)\
+**Data Protection Officer**: [full output](results/lr-rights)\
 **Purpose**: [full output](https://github.com/Aberkane/)\
 **Acquired Data**: [full output](https://github.com/Aberkane/)\
 **Data sharing**: [full output](https://github.com/Aberkane/)\
