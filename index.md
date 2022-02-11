@@ -16,7 +16,7 @@ Ghent University, \
 Currently in review ...
 
 ## Data
-Full print of the results of statistical analysis using Statsmodel's logistic regression as outlined in the paper mentioned above:
+Full print of the results of statistical analysis using Statsmodel's logistic regression as outlined in the paper mentioned above:\
 **Data Protection Officer**: [full output](https://github.com/Aberkane/)\
 **Purpose**: [full output](https://github.com/Aberkane/)\
 **Acquired Data**: [full output](https://github.com/Aberkane/)\
