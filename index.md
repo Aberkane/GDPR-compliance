@@ -13,7 +13,7 @@ Ghent University, \
 9000 Ghent, Belgium_
 
 ## Full Conference Article
-Currently under review at TrustBus2022.
+Currently under review for TrustBus2022.
 
 ## Results
 Full print of the analysis results using Statsmodel's logistic regression as outlined in the paper mentioned above:
