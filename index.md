@@ -23,7 +23,7 @@ Full print of the analysis results using Statsmodel's logistic regression as out
 - **Data sharing**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr_data-sharing)
 - **Rights**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr_rights)
 
-## Support or Contact
+## Contact
 
 Questions? Please send us an email at [abdeljaouad.aberkane@ugent.be](abdeljaouad.aberkane@ugent.be).
 
