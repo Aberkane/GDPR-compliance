@@ -5,12 +5,7 @@
 The General Data Protection Regulation (GDPR) came into effect in May 2018 to ensure and safeguard data subjects' rights. This enactment profoundly shaped, among other things,  data processing organizations' privacy policies to comply with the GDPR's transparency requirements—for compliance with the GDPR is compulsory. Nevertheless, despite the potential goodwill to change, complying with the GDPR can be challenging for some organizations, e.g., small and medium-sized enterprises, due to, for example, lack of resources. This study explores what factors may affect GDPR-compliance practices in organizations by analyzing the corresponding privacy policies. The contribution of this study is twofold. First, we have devised a classification model using machine learning (ML) and natural language processing (NLP) techniques to assess the GDPR-compliance practices promised in privacy policies regarding the GDPR core privacy policy requirement of Purpose. Using this model, we have collected a data set of 8\,614 organizations active in the European Union (EU) containing organizational information and GDPR-compliance promises derived from the organization's privacy policy, as made publicly available. Our second contribution is an analysis of the resulting classification to identify organizational factors that determine whether the considered GDPR core privacy policy requirement is attended to in the organization's privacy policy.
 
 ## Authors
-
-Abdel-Jaouad Aberkane, Seppe vanden Broucke, and Geert Poels\
-_Business Informatics Research Group, \
-Faculty of Economics and Business Administration, \
-Ghent University, \
-9000 Ghent, Belgium_
+Author(s) blinded
 
 ## Full Conference Article
 Currently under review for DSAA 2022.
@@ -19,9 +14,6 @@ Currently under review for DSAA 2022.
 Full print of the analysis results using Statsmodel's logistic regression as outlined in the paper mentioned above:
 - **Purpose**: [full output](https://raw.githubusercontent.com/Aberkane/Privacy-Policies-GDPR-compliance/main/results/lr_purpose)
 
-## Contact
-
-Questions? Please send us an email at [abdeljaouad.aberkane@ugent.be](abdeljaouad.aberkane@ugent.be).
 
 <!-- ## Welcome to GitHub Pages
 
