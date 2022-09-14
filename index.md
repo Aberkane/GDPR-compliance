@@ -1,14 +1,17 @@
 # Identifying Organizational Factors towards GDPR-Compliance: A Machine Learning Approach
 
 ## Abstract
+The General Data Protection Regulation (GDPR) came into effect in May 2018 to ensure and safeguard data subjects' rights. This enactment profoundly shaped, among other things,  data processing organizations' privacy policies to comply with the GDPR's transparency requirements—for compliance with the GDPR is compulsory. Nevertheless, despite the potential goodwill to change, complying with the GDPR can be challenging for some organizations, e.g., small and medium-sized enterprises, due to, for example, a lack of resources. This study explores what factors may correlate with GDPR-compliance practices in organizations by analyzing the corresponding privacy policies. The contribution of this study is twofold. First, we have devised a classification model using machine learning (ML) and natural language processing (NLP) techniques to assess the GDPR-compliance practices promised in privacy policies regarding the GDPR core privacy policy requirement of Purpose. Using this model, we have collected a data set of 8614 organizations active in the European Union (EU) containing organizational information and GDPR-compliance promises derived from the organization's privacy policy, as made publicly available. Our second contribution is an analysis of the resulting classification to identify organizational factors related to the disclosure of the GDPR core privacy policy requirement of Purpose in the organization's privacy policy.
 
-The General Data Protection Regulation (GDPR) came into effect in May 2018 to ensure and safeguard data subjects' rights. This enactment profoundly shaped, among other things,  data processing organizations' privacy policies to comply with the GDPR's transparency requirements—for compliance with the GDPR is compulsory. Nevertheless, despite the potential goodwill to change, complying with the GDPR can be challenging for some organizations, e.g., small and medium-sized enterprises, due to, for example, lack of resources. This study explores what factors may affect GDPR-compliance practices in organizations by analyzing the corresponding privacy policies. The contribution of this study is twofold. First, we have devised a classification model using machine learning (ML) and natural language processing (NLP) techniques to assess the GDPR-compliance practices promised in privacy policies regarding the GDPR core privacy policy requirement of Purpose. Using this model, we have collected a data set of 8\,614 organizations active in the European Union (EU) containing organizational information and GDPR-compliance promises derived from the organization's privacy policy, as made publicly available. Our second contribution is an analysis of the resulting classification to identify organizational factors that determine whether the considered GDPR core privacy policy requirement is attended to in the organization's privacy policy.
 
 ## Authors
-Author(s) Blinded
+**Abdel-Jaouad Aberkane**, **Seppe vanden Broucke**, and **Geert Poels**<br/>
+_Faculty of Economics and Business Administration<br/>
+Department of Business Informatics and Operations Management (EB24)<br/>
+UGent Business Informatics group_
 
 ## Full Conference Article
-Currently under review for DSAA 2022.
+Currently under review for IEEE TPS 2022.
 
 ## Results
 Full print of the analysis results using Statsmodel's logistic regression as outlined in the paper mentioned above:
