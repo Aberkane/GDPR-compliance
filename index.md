@@ -9,7 +9,7 @@ The General Data Protection Regulation (GDPR) came into effect in May 2018 to en
 **Abdel-Jaouad Aberkane**, **Seppe vanden Broucke**, and **Geert Poels**<br/>
 _Faculty of Economics and Business Administration<br/>
 Department of Business Informatics and Operations Management (EB24)<br/>
-UGent Business Informatics group_
+UGent Business Informatics Research Group
 
 ## Full Conference Article
 Currently under review for IEEE TPS 2022.
