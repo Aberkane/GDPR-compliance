@@ -12,7 +12,7 @@ Department of Business Informatics and Operations Management (EB24)<br/>
 UGent Business Informatics Research Group
 
 ## Full Conference Article
-Currently under review for IEEE TPS 2022.
+[https://ieeexplore.ieee.org/document/10063341](https://ieeexplore.ieee.org/document/10063341)
 
 ## Results
 Full print of the analysis results using Statsmodel's logistic regression as outlined in the paper mentioned above:
